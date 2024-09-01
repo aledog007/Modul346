@@ -6,7 +6,7 @@
 
 ## Konsole ausgabe bei mehr CPU und RAM als das Host-System hat
 
-<img src="/Bilder/vm_austesten/zeigt_Ressurcen_an_jedoch_mit_Sachen_wo_er_nicht_besitzt.png">
+<img src="Bilder/vm_austesten/zeigt_Ressurcen_an_jedoch_mit_Sachen_wo_er_nicht_besitzt.png">
 
 ## Erklärung wie es möglich ist, dass man mehr Ressourcen zuteilen kann als Ihr Host-System hat.
 
